@@ -26,14 +26,14 @@ Member years
 Using KNN( K-Nearest Neighbours ) is 40.59%
 
 # Language and Software
-Python
+Python  
 Spyder
 
 # Libraries
-Numpy
+Numpy  
 Panda
 
 # Data Cleaning
-Label Encoder
+Label Encoder  
 OneHotEncoder
 
