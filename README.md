@@ -7,7 +7,7 @@ Headers corresponding to each column has categorical variables which have text l
 
 # Most scoring features
 Nr.reviews 
-Nr.hotel reviews
+Nr.hotel reviews 
 Helpful votes
 Traveler type
 Swimming Pool
