@@ -6,7 +6,7 @@ The dataset contains 504 records and 20 tuned features, 24 per hotel (two per ea
 Headers corresponding to each column has categorical variables which have text labels but most machine learning algorithms in python accept data with numeric labels only therefore we'll be encoding the categorical variables to numeric labels
 
 # Most scoring features
-Nr.reviews 
+**Nr.reviews 
 Nr.hotel reviews 
 Helpful votes
 Traveler type
@@ -20,7 +20,7 @@ Hotel Name
 Hotel stars
 Nr.rooms 
 Member years
-
+**
 
 # Accuracy
 Using KNN( K-Nearest Neighbours ) is 40.59%
