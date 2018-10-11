@@ -1,5 +1,5 @@
 # TripAdvisor-Scoring Reviewer
-The dataset used in this project includes quantitative and categorical features from online reviews of 21 hotels located in Las Vegas Strip, extracted from TripAdvisor. All the 504 reviews were collected between January and August of 2015.
+The dataset used in this project includes quantitative and categorical features from online reviews of 21 hotels located in Las Vegas Strip, extracted from TripAdvisor
 
 The dataset contains 504 records and 20 tuned features, 24 per hotel (two per each month, randomly selected), regarding the year of 2015. The CSV contains a header, with the names of the columns corresponding to the features
 
